@@ -111,3 +111,4 @@ Servers/
 
 # Project Metadata
 */WebContent/META-INF/MANIFEST.MF
+*/.gitignore
